@@ -52,7 +52,7 @@ export default function mypage() {
               이메일 주소
             </div>
           </div>
-          {/*회원가입 및 로그인 후 개인정보 입력 받는 곳 56라인 ~ 92라인의 텍스트 부분 삭제후 기능 넣기*/}
+          {/*회원가입 및 로그인 후 개인정보 입력 받는 곳: 56라인 ~ 92라인의 텍스트 부분 삭제후 기능 넣기*/}
           <div className="flex flex-col w-96">
             <div className="mb-8 text-4xl">&nbsp;profile</div>
             <div
